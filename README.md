@@ -1,4 +1,4 @@
-# IMC Rock Paper Scissors Game Application
+# Rock Paper Scissors Game Application
 
 ## Overview
 This is a Java-based console application designed to play the Rock-Paper-Scissors game.
